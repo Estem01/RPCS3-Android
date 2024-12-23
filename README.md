@@ -21,3 +21,6 @@
 ## Disclaimer
 
 RPCS3 Android is an independent project and is not affiliated with Sony or the original PS3 team. This emulator is for educational and personal use only.
+
+
+this is a joke don't take it seriously 
